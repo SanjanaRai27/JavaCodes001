@@ -1,9 +1,9 @@
-package sum;
+package Codes;
 
 //Java Program to Add Two Numbers
 
 //Given two integers num1 and num2, the task is to find the sum of the given two numbers in Java.
-public class one {
+public class Sum01 {
     public static int sum(int a,int b){
         return a+b;
     }

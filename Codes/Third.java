@@ -1,4 +1,4 @@
-package sum;
+package Codes;
 
 /*Sum of N Numbers in Java
 Sum of N Numbers in Java can be done using the Steps mentioned below:

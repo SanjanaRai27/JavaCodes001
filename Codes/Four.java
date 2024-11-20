@@ -1,4 +1,4 @@
-package sum;
+package Codes;
 
 /*Sum of Three Numbers in Java
 Sum of Three Numbers in itself is like Adding Two Numbers Two Times.*/

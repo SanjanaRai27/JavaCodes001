@@ -1,4 +1,4 @@
-package sum;
+package Codes;
 public class Second {
     //Using Bit Manipulation for Addition of Two Numbers in Java
 //Bitwise Operators are the operators that can directly operate on the bit values.
