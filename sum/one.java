@@ -1,3 +1,5 @@
+package sum;
+
 //Java Program to Add Two Numbers
 
 //Given two integers num1 and num2, the task is to find the sum of the given two numbers in Java.
